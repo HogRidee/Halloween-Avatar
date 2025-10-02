@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: dabf1ee2acb830b42ad6304076941e54
+guid: 9d88a168734da874db9fd6bc26dbf198
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4643141583821273657
-    second: Cat3_0
+      213: -8441383665538369355
+    second: Witch_Idle_64x20_0
+  - first:
+      213: 3096242935904151840
+    second: Witch_Idle_64x20_1
+  - first:
+      213: 5260099412635198405
+    second: Witch_Idle_64x20_2
+  - first:
+      213: -3453205132105404303
+    second: Witch_Idle_64x20_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cat3_0
+      name: Witch_Idle_64x20_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 0
-        width: 14
-        height: 14
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93af2898ba0cf6040800000000000000
-      internalID: 4643141583821273657
+      spriteID: 5b8fcc2d74e2ada80800000000000000
+      internalID: -8441383665538369355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Idle_64x20_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02921ecab8018fa20800000000000000
+      internalID: 3096242935904151840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Idle_64x20_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ac5deb80aff840800000000000000
+      internalID: 5260099412635198405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_Idle_64x20_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1703d4c6a30c310d0800000000000000
+      internalID: -3453205132105404303
       vertices: []
       indices: 
       edges: []
@@ -125,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 0f88eba47439e1d4f8049437303e1ee9
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cat3_0: 4643141583821273657
+      Witch_Idle_64x20_0: -8441383665538369355
+      Witch_Idle_64x20_1: 3096242935904151840
+      Witch_Idle_64x20_2: 5260099412635198405
+      Witch_Idle_64x20_3: -3453205132105404303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

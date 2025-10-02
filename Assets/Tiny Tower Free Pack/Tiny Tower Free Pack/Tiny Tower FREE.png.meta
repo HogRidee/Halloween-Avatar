@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: d4bbc908f392c754d8ef0cdb5dd5010e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7453361248646655717
+    second: Tiny Tower FREE_0
+  - first:
+      213: 5004713434132234471
+    second: Tiny Tower FREE_1
+  - first:
+      213: -1878264593262586718
+    second: Tiny Tower FREE_2
+  - first:
+      213: 2394755588129515418
+    second: Tiny Tower FREE_3
+  - first:
+      213: -5222303320982898000
+    second: Tiny Tower FREE_4
+  - first:
+      213: -3544732438768286850
+    second: Tiny Tower FREE_5
+  - first:
+      213: -4826069857593862920
+    second: Tiny Tower FREE_6
+  - first:
+      213: -3007962047439560584
+    second: Tiny Tower FREE_7
+  - first:
+      213: -3353171788100662816
+    second: Tiny Tower FREE_8
+  - first:
+      213: -1683615955100101957
+    second: Tiny Tower FREE_9
+  - first:
+      213: 280247383751506058
+    second: Tiny Tower FREE_10
+  - first:
+      213: -7894603194336336478
+    second: Tiny Tower FREE_11
+  - first:
+      213: -3966372940462775468
+    second: Tiny Tower FREE_12
+  - first:
+      213: 7114496833495982973
+    second: Tiny Tower FREE_13
+  - first:
+      213: 7656541553406467225
+    second: Tiny Tower FREE_14
+  - first:
+      213: -5375626078599310240
+    second: Tiny Tower FREE_15
+  - first:
+      213: 9645027642287633
+    second: Tiny Tower FREE_16
+  - first:
+      213: 636136558242142458
+    second: Tiny Tower FREE_17
+  - first:
+      213: -6858788078951308394
+    second: Tiny Tower FREE_18
+  - first:
+      213: -5105840744987577687
+    second: Tiny Tower FREE_19
+  - first:
+      213: -4696145232474593465
+    second: Tiny Tower FREE_20
+  - first:
+      213: -2358502499987122493
+    second: Tiny Tower FREE_21
+  - first:
+      213: -536404353555822888
+    second: Tiny Tower FREE_22
+  - first:
+      213: 5199079254293365215
+    second: Tiny Tower FREE_23
+  - first:
+      213: 4943466244964236886
+    second: Tiny Tower FREE_24
+  - first:
+      213: 8708942999324996640
+    second: Tiny Tower FREE_25
+  - first:
+      213: -9179320026378830719
+    second: Tiny Tower FREE_26
+  - first:
+      213: -1553390293152993336
+    second: Tiny Tower FREE_27
+  - first:
+      213: -6264905725584883214
+    second: Tiny Tower FREE_28
+  - first:
+      213: 7536233505623147327
+    second: Tiny Tower FREE_29
+  - first:
+      213: -421349547918040746
+    second: Tiny Tower FREE_30
+  - first:
+      213: -5320342421092264738
+    second: Tiny Tower FREE_31
+  - first:
+      213: 3776810850492055771
+    second: Tiny Tower FREE_32
+  - first:
+      213: -3505401518908362676
+    second: Tiny Tower FREE_33
+  - first:
+      213: -54395594792008832
+    second: Tiny Tower FREE_34
+  - first:
+      213: -427492396367160319
+    second: Tiny Tower FREE_35
+  - first:
+      213: -2474112235297485097
+    second: Tiny Tower FREE_36
+  - first:
+      213: -1473072175477700717
+    second: Tiny Tower FREE_37
+  - first:
+      213: 424829832570985890
+    second: Tiny Tower FREE_38
+  - first:
+      213: -954906972780627970
+    second: Tiny Tower FREE_39
+  - first:
+      213: 1378509413955163023
+    second: Tiny Tower FREE_40
+  - first:
+      213: 5119988819902685435
+    second: Tiny Tower FREE_41
+  - first:
+      213: -6517545003639911824
+    second: Tiny Tower FREE_42
+  - first:
+      213: -3111931298729972247
+    second: Tiny Tower FREE_43
+  - first:
+      213: -7061732275887697143
+    second: Tiny Tower FREE_44
+  - first:
+      213: 6236235571694459953
+    second: Tiny Tower FREE_45
+  - first:
+      213: -4848584206106461859
+    second: Tiny Tower FREE_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Tower FREE_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeee38e098af6760800000000000000
+      internalID: 7453361248646655717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 210
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0c31c2a50547540800000000000000
+      internalID: 5004713434132234471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4d36ccd401fe5e0800000000000000
+      internalID: -1878264593262586718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 210
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97675af481eb3120800000000000000
+      internalID: 2394755588129515418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bab87b6cc6a687b0800000000000000
+      internalID: -5222303320982898000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 210
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e738963b0a49ecec0800000000000000
+      internalID: -3544732438768286850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 104
+        width: 176
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4d5ecb80b560db0800000000000000
+      internalID: -4826069857593862920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 146
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870228864729146d0800000000000000
+      internalID: -3007962047439560584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 146
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9066b46042771d0800000000000000
+      internalID: -3353171788100662816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 144
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb21412853892a8e0800000000000000
+      internalID: -1683615955100101957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 82
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88bdbdb283a3e300800000000000000
+      internalID: 280247383751506058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 75
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a52beed83cb07290800000000000000
+      internalID: -7894603194336336478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 40
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453aefc43dc94f8c0800000000000000
+      internalID: -3966372940462775468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 66
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d736b240d25cbb260800000000000000
+      internalID: 7114496833495982973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c5fca0aff714a60800000000000000
+      internalID: 7656541553406467225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06413c31090f565b0800000000000000
+      internalID: -5375626078599310240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a77ef914422000800000000000000
+      internalID: 9645027642287633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af899ae44d204d800800000000000000
+      internalID: 636136558242142458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 30
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6936c64e490b0d0a0800000000000000
+      internalID: -6858788078951308394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2bc43f4e86429b0800000000000000
+      internalID: -5105840744987577687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 30
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74725b4dac0f3deb0800000000000000
+      internalID: -4696145232474593465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6956ed87ae44fd0800000000000000
+      internalID: -2358502499987122493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 30
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6055a151f4e88f0800000000000000
+      internalID: -536404353555822888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 33
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1424f2907d62840800000000000000
+      internalID: 5199079254293365215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_24
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 33
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3a32bb58ba9440800000000000000
+      internalID: 4943466244964236886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02434e314816cd870800000000000000
+      internalID: 8708942999324996640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c7f04f1118c9080800000000000000
+      internalID: -9179320026378830719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf631332cf317ae0800000000000000
+      internalID: -1553390293152993336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1c33b7f659e09a0800000000000000
+      internalID: -6264905725584883214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f338017d174169860800000000000000
+      internalID: 7536233505623147327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e21e81d0172af0800000000000000
+      internalID: -421349547918040746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed49a53a1c85a26b0800000000000000
+      internalID: -5320342421092264738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd08b67457de96430800000000000000
+      internalID: 3776810850492055771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c403a5614ef4a5fc0800000000000000
+      internalID: -3505401518908362676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0838317ae7fbe3ff0800000000000000
+      internalID: -54395594792008832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cda523eed311af0800000000000000
+      internalID: -427492396367160319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_36
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de45a8c7003aadd0800000000000000
+      internalID: -2474112235297485097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397c32c39a89e8be0800000000000000
+      internalID: -1473072175477700717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add16c5b7c45e500800000000000000
+      internalID: 424829832570985890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 18
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7fdd5ea2d7fb2f0800000000000000
+      internalID: -954906972780627970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_40
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 18
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8354522203712310800000000000000
+      internalID: 1378509413955163023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_41
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 18
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0654074badd0740800000000000000
+      internalID: 5119988819902685435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_42
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 18
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07acb62c9570d85a0800000000000000
+      internalID: -6517545003639911824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eda7c5b8f230d4d0800000000000000
+      internalID: -3111931298729972247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_44
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 18
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039dc4e8efaffd90800000000000000
+      internalID: -7061732275887697143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_45
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cd082263f8b8650800000000000000
+      internalID: 6236235571694459953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Tower FREE_46
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59747b7a5e56bcb0800000000000000
+      internalID: -4848584206106461859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -23,9 +23,12 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float maxFallSpeed = 18f;
     [SerializeField] private float fallSpeedMultiplier = 2f;
     
+    private bool _isFacingRight = true;
+    
     void Update()
     {
         rb.linearVelocity = new Vector2(_horizontalMovement * speed, rb.linearVelocity.y);
+        FlipSprite();
         Gravity();
         animator.SetFloat("yVelocity", rb.linearVelocity.y);
         animator.SetFloat("magnitude", rb.linearVelocity.magnitude);
@@ -52,7 +55,27 @@ public class PlayerMovement : MonoBehaviour
             animator.SetTrigger("jump");
         }
     }
+    
+    private void FlipSprite()
+    {
+        if (_horizontalMovement > 0 && !_isFacingRight)
+        {
+            Flip();
+        }
+        else if (_horizontalMovement < 0 && _isFacingRight)
+        {
+            Flip();
+        }
+    }
 
+    private void Flip()
+    {
+        _isFacingRight = !_isFacingRight;
+        Vector3 localScale = transform.localScale;
+        localScale.x *= -1; 
+        transform.localScale = localScale;
+    }
+    
     private void Gravity()
     {
         if (rb.linearVelocity.y < 0)
